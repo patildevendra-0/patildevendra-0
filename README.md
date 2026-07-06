@@ -1,407 +1,268 @@
-<div align="center">
+  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0f172a&height=250&section=header&text=Devendra%20Manesh%20Patil&fontSize=46&fontColor=f8fafc&animation=fadeIn&fontAlignY=35&desc=Systems%20Software%20Engineer%20%E2%80%A2%20Medical%20Imaging%20%E2%80%A2%20Linux%20%E2%80%A2%20Modern%20C%2B%2B&descAlignY=56&descSize=15&descColor=38bdf8" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0f172a&height=240&section=header&text=Devendra%20Manesh%20Patil&fontSize=46&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Systems%20Software%20Engineer%20%E2%80%A2%20Medical%20Imaging%20Software%20Engineer%20%E2%80%A2%20India&descAlignY=58&descSize=16&descColor=38bdf8" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2200&pause=900&color=38BDF8&center=true&vCenter=true&width=860&lines=Systems+Software+Engineer+%E2%80%A2+Medical+Imaging+Engineer;C+%2F+C%2B%2B+%E2%80%A2+Linux+%E2%80%A2+Embedded+Systems;Studying+the+Machine%3A+Kernel+%E2%80%A2+Compilers+%E2%80%A2+Architecture;Building+DICOM+%2F+PACS+%2F+Fluoroscopy+Imaging+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2200&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=C+%2F+C%2B%2B+%7C+Linux+%7C+Medical+Imaging+Software;DICOM+%E2%80%A2+PACS+%E2%80%A2+Fluoroscopy+%E2%80%A2+Image+Processing;Studying+the+Machine%3A+Kernel+%E2%80%A2+Compilers+%E2%80%A2+Architecture;Building+Real-Time%2C+High-Performance+Imaging+Pipelines" alt="Typing SVG" />
 
-<br/>
+  <br/>
 
-<a href="https://www.linkedin.com/in/devendra-patil-349668269" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:patildev2001@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=38bdf8" /></a>&nbsp;
-<a href="https://github.com/patildevendra-0"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-<img src="https://img.shields.io/badge/INDIA-FF9933?style=for-the-badge&logoColor=white" />
+  <a href="https://www.linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=38bdf8" /></a>&nbsp;
+  <a href="https://github.com/patildevendra-0"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-</div>
+  </div>
 
-<br/>
+  <br/>
 
-## Engineering Identity
+  <div align="center">
 
-<div align="center">
+  ## Engineering Philosophy
 
-`Systems Software Engineer` &nbsp;•&nbsp; `Medical Imaging Engineer` &nbsp;•&nbsp; `Linux Systems Programmer` &nbsp;•&nbsp; `Modern C++ Developer` &nbsp;•&nbsp; `Embedded Systems Enthusiast`
+  *"Every abstraction is a promise. I want to understand the promise before I trust it."*
 
-</div>
+  </div>
 
-<br/>
+  I don't stop at making software work — I want to know **why** it works. That curiosity runs from computer architecture down through assembly, operating systems, the Linux kernel, memory management, thread scheduling, and system calls, and back up through compilers, linkers, and the ELF format. My day-to-day work is building medical imaging software; my personal time goes into closing the gap between "I used this" and "I understand this."
 
----
+  A few things I hold to:
 
-## Mission
+  - **Depth over quantity.** I'd rather deeply understand one subsystem than shallowly touch ten.
+  - **Read the source.** When documentation runs out, the implementation is the real answer key.
+  - **Simple is harder than complex.** Anyone can add a layer of abstraction; removing an unnecessary one takes real understanding.
+  - **Performance and correctness are not in tension** — they're both consequences of understanding what your code actually does on real hardware.
+  - **Learning never really stops.** Every project is partly a product and partly a lesson.
 
-My work is guided by one long-term goal: **understand computers completely, from a transistor to a distributed system, and build software that's correct, fast, and honest about its own limitations.**
+  <br/>
 
-That means:
+  ---
 
-- Mastering every abstraction I depend on, layer by layer, rather than treating any of them as magic.
-- Building reliable, performance-critical software — starting with the medical imaging systems I work on professionally, where correctness isn't optional.
-- Understanding the full stack: hardware → operating system → compiler → runtime → application → network → distributed system.
-- Eventually contributing meaningfully to open source systems software, not just consuming it.
-- Becoming the kind of engineer who can debug a problem at any layer of that stack — because I've actually built small versions of each layer myself.
+  ## About Me
 
-<br/>
+  I'm a Systems Software Engineer based in India, working professionally in **medical imaging software** — building tooling around DICOM, PACS integration, and real-time fluoroscopy image processing for clinical workstations. That work sits at an intersection I like: it demands both correctness (this is healthcare software) and genuine performance engineering (real-time image pipelines don't forgive sloppy code).
 
----
+  Outside of my professional work, I spend a lot of time going *underneath* the tools I use daily — writing small systems programs (a toy shell, a basic memory allocator, a thread pool, an ELF parser) not because the world needs another one, but because building something is the fastest way I know to actually understand it. I have a strong pull toward modern C++ and low-level software, and I'm steadily working through operating systems internals, compiler construction, and computer architecture as an ongoing, long-term study — not a finished skill set, but a direction I'm serious about.
 
-## My Story
+  <br/>
 
-I started the way most engineers do: writing applications. Somewhere along the way, C and C++ pulled me in a different direction — I stopped being satisfied with *"it works"* and started asking *"what is actually happening when this runs?"*
+  ---
 
-That question led me to operating systems, and then specifically to Linux — its process model, memory management, threading, synchronization primitives, and system call interface. Understanding how a `malloc` call actually reaches the kernel, or how a thread gets scheduled onto a core, changed how I think about every piece of software I write.
+  ## What I Actually Do — Professional Focus
 
-From there, the curiosity kept expanding outward: kernel development and drivers, compilers and how source code becomes a running binary, debuggers and the ELF format, reverse engineering as a way of reading code I didn't write, performance optimization as a discipline rather than guesswork, and — professionally — medical imaging, where all of this comes together under real constraints: real-time processing, strict correctness requirements, and hardware limitations that can't be waved away.
+  <div align="center">
 
-I'm still early in a lot of these areas. This profile is an honest map of where I've built real, professional experience, where I'm actively building personal projects to learn, and where I'm still a student of the subject.
+  | Area | Details |
+  |---|---|
+  | **Medical Imaging Software** | DICOM data handling, PACS integration, fluoroscopy image pipelines |
+  | **Clinical Workstation Development** | Qt / QML desktop applications for medical imaging workflows |
+  | **Image Processing** | Real-time image enhancement and processing using OpenCV |
+  | **Web & Enterprise Layer** | Angular front-ends, REST APIs connecting imaging systems to broader hospital software |
+  | **Core Language** | C / C++ for performance-critical imaging and processing code |
 
-<br/>
+  </div>
 
----
+  <div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,qt,opencv,angular,ts&theme=dark" />
+  </div>
 
-## Engineering Philosophy
+  <br/>
 
-> Understand before using. Measure before optimizing. Correctness before performance — and once correctness is earned, performance without sacrificing maintainability.
+  ---
 
-- **Every abstraction should eventually be understood.** Using a thread pool is fine. Knowing what it's hiding is better.
-- **Read the source.** When the documentation runs out, the implementation is the real answer key.
-- **Measure, don't guess.** Performance intuition is often wrong until it's been checked against a profiler.
-- **Simple is harder than complex.** Anyone can add another layer. Removing an unnecessary one takes real understanding of the problem.
-- **Build to learn.** A working toy compiler teaches more about compilers than reading about them ever will.
-- **Share what you learn.** Knowledge that stays private helps no one, including future-you re-deriving it from scratch.
+  ## Currently Learning — Going Deeper, Deliberately
 
-<br/>
+  This is study, not a claim of mastery. I'm working through these areas seriously and steadily, mostly through reading, small experiments, and building toy versions of real systems.
 
----
+  <div align="center">
 
-## Professional Experience — Medical Imaging Software
+  | Track | Topics |
+  |---|---|
+  | **Operating Systems & Kernel** | Linux kernel internals, process/thread scheduling, memory management |
+  | **Computer Architecture** | CPU internals, caches, instruction pipelines, x86 / ARM assembly |
+  | **Compilers & Binaries** | Compiler design basics, linkers, loaders, the ELF format, binary analysis |
+  | **Modern C++** | Templates, metaprogramming, concurrency, atomics, lock-free patterns, custom allocators |
+  | **Reverse Engineering** | Static/dynamic analysis fundamentals, using GDB and Valgrind to understand behavior, not just debug it |
+  | **Parallel & GPU Computing** | CUDA fundamentals, SIMD |
+  | **Networking & Distributed Systems** | TCP/IP fundamentals, RPC concepts, distributed systems theory |
+  | **Build Systems** | CMake, Ninja, Docker-based build/deploy workflows |
 
-<div align="center">
+  </div>
 
-| Domain | What I Work On |
-|---|---|
-| **Medical Imaging Software** | Fluoroscopy workstation software, medical image processing pipelines |
-| **Standards & Integration** | DICOM data handling, PACS communication and integration |
-| **Desktop Applications** | Qt / QML clinical workstation interfaces |
-| **Image Processing** | Real-time image enhancement using OpenCV |
-| **Web & Backend** | REST APIs, Angular front-ends connecting imaging systems into broader hospital software |
-| **Build Tooling** | Modern CMake-based build systems for cross-platform desktop applications |
+  <br/>
 
-</div>
+  ---
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,qt,opencv,angular,nodejs,ts&theme=dark" />
-</div>
+  ## Tech Ecosystem
 
-<br/>
+  ### Systems & Low-Level
 
-**Project areas I've worked on professionally:**
+  <div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,linux,bash&theme=dark" />
+  <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Valgrind-2E2E2E?style=for-the-badge"/>
+  </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+  <br/>
 
-**Medical Imaging Workstation (Qt/QML)**
-Desktop clinical workstation UI for viewing and interacting with medical images, built on Qt and QML.
+  ### Medical Imaging Stack
 
-</td>
-<td width="50%" valign="top">
+  <div align="center">
+  <img src="https://img.shields.io/badge/DICOM-00838F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PACS-0288D1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DCMTK-006064?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Fluoroscopy-37474F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  </div>
 
-**DICOM Viewer & PACS Communication**
-Handling DICOM datasets and integrating with PACS systems for image retrieval and storage.
+  <br/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+  ### Application & Enterprise Layer
 
-**Image Enhancement Pipeline**
-Real-time fluoroscopy image processing and enhancement using OpenCV.
+  <div align="center">
+  <img src="https://skillicons.dev/icons?i=qt,cs,java,go,python,angular,ts,tailwind,bootstrap,nodejs,spring&theme=dark" />
+  </div>
 
-</td>
-<td width="50%" valign="top">
+  <br/>
 
-**REST API + Angular Dashboard**
-Backend REST services (Node.js) paired with an Angular front-end for imaging system dashboards.
+  ### Databases
 
-</td>
-</tr>
-</table>
+  <div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis&theme=dark" />
+  </div>
 
-<br/>
+  <br/>
 
----
+  ### Tooling & Environment
 
-## Currently Learning
+  <div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vim,cmake,linux,windows&theme=dark" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  </div>
 
-Clearly separated from professional experience — this is active, ongoing study, not claimed expertise.
+  <br/>
 
-<div align="center">
+  ---
 
-| Track | Topics |
-|---|---|
-| **Operating Systems & Linux** | Linux kernel internals, kernel modules, character/platform/PCI/USB drivers, device tree, interrupt handling, DMA, kernel memory, the scheduler, virtual memory, filesystems |
-| **Compilers & Binaries** | Compiler design fundamentals, LLVM, linkers, loaders, the ELF format |
-| **Modern C++** | Templates, concepts, coroutines, concurrency, lock-free programming, memory ordering |
-| **Parallel & GPU Computing** | SIMD, CUDA, OpenCL |
-| **Reverse Engineering & Tooling** | GDB, LLDB, `perf`, eBPF |
-| **Networking** | TCP/IP, UDP, sockets, HTTP/HTTPS, TLS, RPC |
-| **Distributed Systems & Storage** | Distributed systems fundamentals, storage engines, filesystems |
-| **Containers & Orchestration** | Docker, Kubernetes |
-| **Languages (learning stage)** | Rust |
+  ## Personal Systems Programming Projects
 
-</div>
+  Small, deliberately scoped projects built to learn — not production systems, but working implementations of real concepts.
 
-<br/>
+  <div align="center">
 
----
+  <table>
+  <tr>
+  <td width="50%" valign="top">
 
-## Systems Programming Interests
+  **Memory Allocator**
+  A custom `malloc`/`free` implementation exploring heap management strategies and fragmentation trade-offs.
 
-<div align="center">
+  </td>
+  <td width="50%" valign="top">
 
-`Memory Management` `Schedulers` `CPU Architecture` `Caches` `NUMA` `SIMD / AVX / SSE`
-`Thread Pools` `Mutexes` `Condition Variables` `Atomics` `Lock-Free Programming`
-`Shared Memory` `Pipes` `Sockets` `Signals` `epoll` `io_uring`
+  **Thread Pool**
+  A C++ thread pool built to understand task scheduling, synchronization primitives, and work queues.
 
-</div>
+  </td>
+  </tr>
+  <tr>
+  <td width="50%" valign="top">
 
-<br/>
+  **Mini Shell**
+  A basic Unix shell implementing process creation, piping, and I/O redirection using system calls directly.
 
----
+  </td>
+  <td width="50%" valign="top">
 
-## Embedded Systems — Personal Exploration
+  **ELF Parser**
+  A tool that reads and inspects ELF binaries — sections, symbols, headers — to understand what a compiled binary actually contains.
 
-An area I'm exploring outside of professional work — learning the hardware/software boundary directly.
+  </td>
+  </tr>
+  <tr>
+  <td width="50%" valign="top">
 
-<div align="center">
+  **Mini Compiler**
+  A small compiler front-end covering lexing, parsing, and basic code generation for a toy language.
 
-`STM32` `ESP32` `FreeRTOS` `UART` `SPI` `I2C` `CAN` `USB` `DMA` `ADC` `PWM`
-`Timers` `Interrupts` `GPIO` `Watchdog Timers` `Bootloaders` `OTA Updates`
-`MQTT` `BLE` `WiFi` `Embedded C` `Low-Power Design`
+  </td>
+  <td width="50%" valign="top">
 
-</div>
+  **HTTP Server**
+  A minimal HTTP server built from raw sockets to understand the protocol layer beneath web frameworks.
 
-<br/>
+  </td>
+  </tr>
+  </table>
 
----
+  </div>
 
-## Medical Imaging Domain Knowledge
+  <br/>
 
-<div align="center">
+  ---
 
-<img src="https://img.shields.io/badge/DICOM-00838F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PACS-0288D1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HL7-006064?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RIS-455A64?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Fluoroscopy-37474F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Radiography-263238?style=for-the-badge"/>
+  ## Engineering Roadmap
 
-</div>
+  ```
+  Computer Architecture → Assembly → Operating Systems → Linux Kernel
+          ↓
+  Memory Management → Thread Scheduling → System Calls
+          ↓
+  Compilers → Linkers → ELF → Reverse Engineering
+          ↓
+  Networking → Distributed Systems
+          ↓
+  Medical Imaging Systems → Enterprise Software
+  ```
 
-**Working knowledge areas:** Worklists, window level / window width adjustment, image enhancement, noise reduction, temporal filtering, and an interest in GPU-accelerated image processing for diagnostic imaging pipelines.
+  **Current mission:** deepen Linux kernel and compiler understanding while continuing to ship real medical imaging software professionally.
 
-<br/>
+  **Long-term direction:** become the kind of engineer who can move fluidly between a device driver, a compiler pass, and a clinical imaging pipeline — because all three are really the same skill, applied at different layers.
 
----
+  <br/>
 
-## Technology Ecosystem
+  ---
 
-### Languages
+  ## GitHub Analytics
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,go,java,cs,js,ts&theme=dark" />
-<img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=patildevendra-0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patildevendra-0&theme=tokyonight&hide_border=true" width="49%"/>
+  </div>
 
-### Frameworks
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patildevendra-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patildevendra-0&theme=tokyo-night&hide_border=true" width="49%"/>
+  </div>
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=qt,opencv,angular,nodejs,spring,bootstrap,tailwind&theme=dark" />
-</div>
+  <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=patildevendra-0&theme=tokyonight&no-frame=true&row=1&column=7" />
+  </div>
 
-### Databases
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/patildevendra-0/patildevendra-0/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </div>
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis&theme=dark" />
-</div>
+  <br/>
 
-### Tools & Environment
+  ---
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=linux,windows,git,github,docker,cmake,vscode,vim,clion&theme=dark" />
-<img src="https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Valgrind-2E2E2E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/perf-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/DCMTK-006064?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Qt%20Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
-</div>
+  <div align="center">
 
-<br/>
+  ### On Learning
 
----
+  *"Depth is a decision you make repeatedly, not a level you reach once."*
 
-## Personal Systems Projects
+  <br/>
 
-Built to understand, not to ship — each one a small, working version of a real concept.
+  ### Get in Touch
 
-<table>
-<tr>
-<td width="33%" valign="top">
+  I'm glad to talk about Linux internals, medical imaging systems, C++ performance, or anything at the boundary between hardware and software.
 
-**Memory Allocator**
-Custom `malloc` / `free` exploring heap strategies and fragmentation.
+  <a href="https://www.linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=38bdf8" /></a>
 
-</td>
-<td width="33%" valign="top">
+  <br/><br/>
 
-**Thread Pool**
-Task scheduling and synchronization primitives in C++.
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0f172a&height=100&section=footer" width="100%"/>
 
-</td>
-<td width="33%" valign="top">
-
-**Mini Shell**
-A Unix shell with process creation, piping, I/O redirection.
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-**HTTP / TCP Server**
-Raw-socket servers built to understand the protocol layers beneath web frameworks.
-
-</td>
-<td width="33%" valign="top">
-
-**ELF Parser & Binary Inspector**
-Tools that read ELF sections, symbols, and headers directly.
-
-</td>
-<td width="33%" valign="top">
-
-**Mini Debugger**
-A basic debugger exploring breakpoints and process control via ptrace.
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-**File Watcher & Logger**
-Linux utilities using inotify and structured logging.
-
-</td>
-<td width="33%" valign="top">
-
-**Modern CMake Template**
-A reusable, modern CMake project template for cross-platform C++ builds.
-
-</td>
-<td width="33%" valign="top">
-
-**Image Processing Framework**
-A small OpenCV-based framework for experimenting with image enhancement techniques.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-## Engineering Roadmap
-
-```
-Computer Architecture → Assembly → Operating Systems → Linux Kernel
-        ↓
-Memory Management → Thread Scheduling → System Calls
-        ↓
-Compilers → LLVM → Linkers → ELF → Reverse Engineering
-        ↓
-Networking → Distributed Systems → Storage Engines
-        ↓
-Embedded Systems → GPU Computing
-        ↓
-Medical Imaging Systems → Enterprise Software
-```
-
-**Current mission:** deepen Linux kernel, driver, and compiler understanding while continuing to ship real medical imaging software professionally.
-
-**Long-term direction:** become an engineer equally comfortable in a device driver, a compiler pass, and a clinical imaging pipeline — recognizing these as the same underlying discipline, applied at different layers of the stack.
-
-<br/>
-
----
-
-## Current Research Topics & Future Goals
-
-- Reading and experimenting with **eBPF** for observability and tracing.
-- Studying **io_uring** as a modern alternative to traditional async I/O on Linux.
-- Working through a basic **LLVM** backend to understand modern compiler pipelines beyond toy compilers.
-- Long-term goal: a small, real open-source contribution to a systems-level project (kernel tooling, a compiler, or a debugger) once my understanding is solid enough to contribute meaningfully rather than superficially.
-
-<br/>
-
----
-
-## Reading List
-
-Books currently on my desk or already worked through, roughly grouped by the topics above:
-
-- *Operating Systems: Three Easy Pieces* — Remzi & Andrea Arpaci-Dusseau
-- *The Linux Programming Interface* — Michael Kerrisk
-- *Computer Systems: A Programmer's Perspective* — Bryant & O'Hallaron
-- *Effective Modern C++* — Scott Meyers
-- *Crafting Interpreters* — Robert Nystrom
-- *Designing Data-Intensive Applications* — Martin Kleppmann
-
-<br/>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=patildevendra-0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=patildevendra-0&theme=tokyonight&hide_border=true" width="49%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patildevendra-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=patildevendra-0&theme=tokyo-night&hide_border=true" width="49%"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=patildevendra-0&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/patildevendra-0/patildevendra-0/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### On Engineering
-
-*"Depth is a decision you make repeatedly, not a level you reach once."*
-
-<br/>
-
-### Contact
-
-<a href="https://www.linkedin.com/in/devendra-patil-349668269" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:patildev2001@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=38bdf8" /></a>&nbsp;
-<a href="https://github.com/patildevendra-0"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0f172a&height=100&section=footer" width="100%"/>
-
-</div>
+  </div>
