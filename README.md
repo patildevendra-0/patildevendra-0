@@ -127,6 +127,18 @@ philosophy: "Correct at the metal. Clean and maintainable at the UI layer."
 
 ---
 
+## 🐍 Contribution Animation
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/patildevendra-0/patildevendra-0/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+</div>
+
+> ⚙️ **Setup note:** this animated snake isn't automatic — it needs a small GitHub Action running in your profile repo to regenerate the SVG daily from your contribution graph. Workflow file is below.
+
+<br/>
+
+---
+
 ## 🚀 Active Initiatives
 
 | Focus Area | Core Technologies | Scope of Engineering |
@@ -134,6 +146,18 @@ philosophy: "Correct at the metal. Clean and maintainable at the UI layer."
 | **Deep Core Kernel Operations** | `C / C++`, Assembly, Linux System Calls | Building high-performance, memory-safe pipelines for latency-sensitive systems. |
 | **High-Throughput Medical Engines** | `DICOM`, `PACS`, `HL7`, `VNA` | Architecting lossless image parsing pipelines and low-latency diagnostic display loops. |
 | **Enterprise Web Applications** | `Angular`, `Tailwind CSS`, `Go`, `Java` | Designing responsive, modern dashboards and enterprise-grade micro-frontends. |
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0f172a&height=60&section=header&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=patildevendra-0&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views"/>
+</div>
 
 <br/>
 
