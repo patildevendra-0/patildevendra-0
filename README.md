@@ -1,109 +1,118 @@
-<h1 align="center">Hi 👋, I'm DEVENDRA MANESH PATIL</h1>
-<h3 align="center">Hello there! I'm Devendra Manesh Patil, a forward-thinking Software Engineer with expertise in C, C++, Java, Python, Golang, C#, and currently delving into Rust. I've made impactful contributions to complex systems and cutting-edge web applications throughout my professional journey.</h3>
-
-<h4 align="center">Technical Proficiency:</h4>
-
-<p align="center">  
-  <strong>Adept in system programming using C on Linux, with in-depth kernel interaction knowledge.</strong><br>
-  Expanding expertise in Golang, C#, and Rust to enhance the development toolkit.<br>
-  Proficient in web development using Angular and Bootstrap, creating responsive, user-friendly applications.
-</p>
-
 <div align="center">
-  <h3>Connect with me:</h3>
-  <!-- Add your social media links here -->
-  <a href="https://www.linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue" alt="Twitter" />
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Devendra%20Manesh%20Patil&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Systems%20%2B%20Web%20%7C%20Building%20at%20the%20edge%20of%20performance&descAlignY=58&descSize=18" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Systems+Programmer+%7C+C+%2F+C%2B%2B+on+Linux;Backend+Engineer+%7C+Go+%7C+Java+%7C+Python;Exploring+Rust+for+Safe+Systems+Code;Building+Responsive+Web+Apps+with+Angular" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/yourusername">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/yourusername">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="mailto:youremail@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/patildevendra-0">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
 </div>
 
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🧭 About Me
 
-<p align="left">
- 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=C&logo=c&label=&color=A8B9CC&logoColor=white&labelColor=&style=for-the-badge" alt="C" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=C%2B%2B&logo=c%2B%2B&label=&color=00599C&logoColor=white&labelColor=&style=for-the-badge" alt="C++" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=C%23&logo=c-sharp&label=&color=239120&logoColor=white&labelColor=&style=for-the-badge" alt="C#" height="40"/>
-  </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40"/>
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Golang&logo=go&label=&color=00ADD8&logoColor=white&labelColor=&style=for-the-badge" alt="Golang" height="40"/>
-  </a>
- 
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Rust&logo=rust&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" alt="Rust" height="40"/>
-  </a>
-<!--  <a href="https://github.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" alt="GitHub" height="40"/>
-  </a> -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge" alt="JavaScript" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=TypeScript&logo=typescript&label=&color=3178C6&logoColor=white&labelColor=&style=for-the-badge" alt="TypeScript" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&label=&color=E34F26&logoColor=white&labelColor=&style=for-the-badge" alt="HTML5" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=CSS3&logo=css3&label=&color=1572B6&logoColor=white&labelColor=&style=for-the-badge" alt="CSS3" height="40"/>
-  </a>
+```yaml
+name: Devendra Manesh Patil
+role: Software Engineer
+focus: [Systems Programming, Backend Engineering, Web Development]
+currently_learning: Rust
+strengths:
+  - Deep Linux kernel-interaction knowledge via C
+  - Multi-language backend engineering (Go, Java, Python, C#)
+  - Responsive front-end delivery with Angular + Bootstrap
+philosophy: "Write code that's correct close to the metal, and clean everywhere else."
+```
 
-   <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Angular&logo=angular&label=&color=DD0031&logoColor=white&labelColor=&style=for-the-badge" alt="Angular" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&label=&color=563D7C&logoColor=white&labelColor=&style=for-the-badge" alt="Bootstrap" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=47A248&logoColor=white&labelColor=&style=for-the-badge" alt="MongoDB" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" alt="MySQL" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=PostgreSQL&logo=postgresql&label=&color=336791&logoColor=white&labelColor=&style=for-the-badge" alt="PostgreSQL" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Spring Boot&logo=spring&label=&color=6DB33F&logoColor=white&labelColor=&style=for-the-badge" alt="Spring Boot" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&labelColor=&style=for-the-badge" alt="Node.js" height="40"/>
-  </a>
-  
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Express&logo=express&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" alt="Express" height="40"/>
-  </a>
-  <a href="https://gofiber.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Fiber&logo=fiber&label=&color=00ACD7&logoColor=white&labelColor=&style=for-the-badge" alt="Fiber" height="40"/>
-  </a>
-  <a href="https://gin-gonic.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Gin&logo=go&label=&color=00ADD8&logoColor=white&labelColor=&style=for-the-badge" alt="Gin" height="40"/>
-  </a>
+<br/>
 
-</p>
+## 🛠️ Tech Stack
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patildevendra-0&show_icons=true&locale=en&layout=compact&theme=dark" alt="patildevendra-0" />
+
+### Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,go,rust,js,ts&theme=dark" /><br/><br/>
+
+### Web & Frontend
+<img src="https://skillicons.dev/icons?i=html,css,angular,bootstrap,react&theme=dark" /><br/><br/>
+
+### Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,gin&theme=dark" /><br/><br/>
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=dark" /><br/><br/>
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,vim&theme=dark" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=patildevendra-0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patildevendra-0&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patildevendra-0&show_icons=true&locale=en&theme=dark" alt="patildevendra-0" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patildevendra-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patildevendra-0&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="49%"/>
 </div>
 
+<br/>
+
+## 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patildevendra-0&theme=dark" alt="patildevendra-0" />
+  <img src="https://github-profile-trophy.vercel.app/?username=patildevendra-0&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+</div>
+
+<br/>
+
+## 🚀 Currently Exploring
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/><br/>
+<sub>Memory-safe systems programming</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/><br/>
+<sub>Concurrent backend services</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/><br/>
+<sub>Enterprise application development</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+## 💬 Let's Connect
+
+I'm always open to interesting conversations about systems programming, backend architecture, or collaborating on something new.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
 </div>
