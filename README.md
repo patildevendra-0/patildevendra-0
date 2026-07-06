@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Devendra%20Manesh%20Patil&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Systems%20%2B%20Web%20%7C%20Building%20at%20the%20edge%20of%20performance&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Devendra%20Manesh%20Patil&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%7C%20C%2FC%2B%2B%20%26%20Assembly%20%7C%20Medical%20Imaging%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Systems+Programmer+%7C+C+%2F+C%2B%2B+on+Linux;Backend+Engineer+%7C+Go+%7C+Java+%7C+Python;Exploring+Rust+for+Safe+Systems+Code;Building+Responsive+Web+Apps+with+Angular" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Deep+Systems+Programming+%7C+C+%2F+C%2B%2B+%2F+Assembly;Linux+Kernel-Level+%26+Low-Level+Development;Medical+Imaging%3A+DICOM+%7C+PACS+%7C+Fluoroscopy;Full-Stack+Web+Apps+with+Angular+%2B+Java+%2F+Go" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -29,15 +29,18 @@
 
 ```yaml
 name: Devendra Manesh Patil
-role: Software Engineer
-focus: [Systems Programming, Backend Engineering, Web Development]
-currently_learning: Rust
-strengths:
-  - Deep Linux kernel-interaction knowledge via C
-  - Multi-language backend engineering (Go, Java, Python, C#)
-  - Responsive front-end delivery with Angular + Bootstrap
-philosophy: "Write code that's correct close to the metal, and clean everywhere else."
+role: Systems Software Engineer
+core_focus:
+  - Deep systems programming in C / C++ on Linux
+  - Assembly-level & kernel-interaction development
+  - Medical imaging software: DICOM, PACS, Fluoroscopy systems
+also_working_in:
+  - Backend engineering: Go, Java, Python, C#
+  - Web applications: Angular, Bootstrap
+philosophy: "Correct and fast at the metal. Clean and maintainable everywhere else."
 ```
+
+> 🩻 **Domain expertise:** I build and work on medical imaging systems — handling **DICOM** standards, **PACS** (Picture Archiving and Communication Systems), and **fluoroscopy** imaging pipelines — where correctness, performance, and low-level control genuinely matter.
 
 <br/>
 
@@ -45,20 +48,30 @@ philosophy: "Write code that's correct close to the metal, and clean everywhere 
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,go,rust,js,ts&theme=dark" /><br/><br/>
+### Systems & Low-Level
+<img src="https://skillicons.dev/icons?i=c,cpp,linux&theme=dark" />
+<img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
+<img src="https://img.shields.io/badge/GDB%2FGCC%2FMake-A42E2B?style=for-the-badge&logo=gnu&logoColor=white"/><br/><br/>
+
+### Medical Imaging & Healthcare IT
+<img src="https://img.shields.io/badge/DICOM-0B7285?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PACS-1864AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fluoroscopy-495057?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Medical%20Imaging-2B8A3E?style=for-the-badge"/><br/><br/>
+
+### Backend Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=cs,java,python,go&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,gin&theme=dark" /><br/><br/>
 
 ### Web & Frontend
-<img src="https://skillicons.dev/icons?i=html,css,angular,bootstrap,react&theme=dark" /><br/><br/>
-
-### Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,gin&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,angular,bootstrap,react,js,ts&theme=dark" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/><br/><br/>
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=dark" /><br/><br/>
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,vim&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vim&theme=dark" />
 
 </div>
 
@@ -86,21 +99,21 @@ philosophy: "Write code that's correct close to the metal, and clean everywhere 
 
 <br/>
 
-## 🚀 Currently Exploring
+## 🚀 What I'm Doing Right Now
 
 <table align="center">
 <tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/><br/>
-<sub>Memory-safe systems programming</sub>
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/-C%20%2F%20C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/><br/>
+<sub>Deep systems programming, Linux internals</sub>
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/><br/>
-<sub>Concurrent backend services</sub>
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/-Assembly-654FF0?style=for-the-badge"/><br/>
+<sub>Low-level, hardware-close development</sub>
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/><br/>
-<sub>Enterprise application development</sub>
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/-DICOM%20%2F%20PACS-1864AB?style=for-the-badge"/><br/>
+<sub>Medical imaging & fluoroscopy systems</sub>
 </td>
 </tr>
 </table>
